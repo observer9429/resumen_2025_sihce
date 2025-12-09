@@ -1,0 +1,3769 @@
+{
+   "data":{
+      "ATE":{
+         "Mayo":{
+            "total":302,
+            "MEDICINA GENERAL":302
+         },
+         "Abril":{
+            "total":317,
+            "MEDICINA GENERAL":317
+         },
+         "Enero":{
+            "total":296,
+            "MEDICINA GENERAL":296
+         },
+         "Julio":{
+            "total":256,
+            "MEDICINA GENERAL":256
+         },
+         "Junio":{
+            "total":299,
+            "MEDICINA GENERAL":299
+         },
+         "Marzo":{
+            "total":240,
+            "MEDICINA GENERAL":240
+         },
+         "total":4126,
+         "Agosto":{
+            "total":272,
+            "MEDICINA GENERAL":272
+         },
+         "Febrero":{
+            "total":250,
+            "MEDICINA GENERAL":250
+         },
+         "Octubre":{
+            "total":626,
+            "MEDICINA GENERAL":626
+         },
+         "Diciembre":{
+            "total":139,
+            "MEDICINA GENERAL":139
+         },
+         "Noviembre":{
+            "total":606,
+            "MEDICINA GENERAL":606
+         },
+         "Setiembre":{
+            "total":523,
+            "NUTRICIÓN":5,
+            "ODONTOLOGIA":4,
+            "MEDICINA GENERAL":514
+         }
+      },
+      "MUSA":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":274,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":224,
+            "MEDICINA GENERAL":224
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":11,
+            "MEDICINA GENERAL":11
+         },
+         "Setiembre":{
+            "total":39,
+            "MEDICINA GENERAL":39
+         }
+      },
+      "COLCA":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":12,
+            "ODONTOLOGIA":12
+         },
+         "Junio":{
+            "total":115,
+            "ODONTOLOGIA":115
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":131,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":3,
+            "ODONTOLOGIA":2,
+            "MEDICINA GENERAL":1
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":1,
+            "ODONTOLOGIA":1
+         }
+      },
+      "MORON":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":5,
+            "MEDICINA GENERAL":1,
+            "ODONTOLOGIA GENERAL":4
+         },
+         "Enero":{
+            "total":9,
+            "ODONTOLOGIA GENERAL":9
+         },
+         "Julio":{
+            "total":337,
+            "NUTRICIÓN":27,
+            "ODONTOLOGIA":6,
+            "MEDICINA GENERAL":304
+         },
+         "Junio":{
+            "total":38,
+            "NUTRICIÓN":7,
+            "MEDICINA GENERAL":31
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":1194,
+         "Agosto":{
+            "total":353,
+            "NUTRICIÓN":37,
+            "ODONTOLOGIA":40,
+            "MEDICINA GENERAL":276
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":146,
+            "NUTRICIÓN":27,
+            "ODONTOLOGIA":2,
+            "MEDICINA GENERAL":117
+         },
+         "Diciembre":{
+            "total":17,
+            "MEDICINA GENERAL":17
+         },
+         "Noviembre":{
+            "total":150,
+            "NUTRICIÓN":10,
+            "MEDICINA GENERAL":140
+         },
+         "Setiembre":{
+            "total":139,
+            "NUTRICIÓN":27,
+            "ODONTOLOGIA":22,
+            "MEDICINA GENERAL":90
+         }
+      },
+      "AMAUTA":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":1,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":1,
+            "ODONTOLOGIA":1
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "CHOSICA":{
+         "Mayo":{
+            "total":1177,
+            "221900":5,
+            "222400":6,
+            "MEDICINA GENERAL":914,
+            "ODONTOLOGIA GENERAL":252
+         },
+         "Abril":{
+            "total":1163,
+            "222400":20,
+            "MEDICINA GENERAL":909,
+            "ODONTOLOGIA GENERAL":234
+         },
+         "Enero":{
+            "total":798,
+            "MEDICINA GENERAL":797,
+            "ODONTOLOGIA GENERAL":1
+         },
+         "Julio":{
+            "total":1394,
+            "ODONTOLOGIA":342,
+            "MEDICINA GENERAL":1052
+         },
+         "Junio":{
+            "total":1304,
+            "ODONTOLOGIA":356,
+            "MEDICINA GENERAL":948
+         },
+         "Marzo":{
+            "total":964,
+            "MEDICINA GENERAL":878,
+            "ODONTOLOGIA GENERAL":86
+         },
+         "total":13390,
+         "Agosto":{
+            "total":1309,
+            "ODONTOLOGIA":289,
+            "MEDICINA GENERAL":1020
+         },
+         "Febrero":{
+            "total":715,
+            "MEDICINA GENERAL":715
+         },
+         "Octubre":{
+            "total":1375,
+            "ODONTOLOGIA":333,
+            "MEDICINA GENERAL":1042
+         },
+         "Diciembre":{
+            "total":374,
+            "NUTRICIÓN":14,
+            "ODONTOLOGIA":78,
+            "MEDICINA GENERAL":282
+         },
+         "Noviembre":{
+            "total":1463,
+            "NUTRICIÓN":41,
+            "ODONTOLOGIA":349,
+            "MEDICINA GENERAL":1073
+         },
+         "Setiembre":{
+            "total":1354,
+            "ODONTOLOGIA":379,
+            "MEDICINA GENERAL":975
+         }
+      },
+      "HUASCAR":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":7,
+            "ODONTOLOGIA":7
+         },
+         "Junio":{
+            "total":3,
+            "ODONTOLOGIA":2,
+            "MEDICINA GENERAL":1
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":1058,
+         "Agosto":{
+            "total":16,
+            "ODONTOLOGIA":14,
+            "MEDICINA GENERAL":2
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":365,
+            "MEDICINA GENERAL":365
+         },
+         "Diciembre":{
+            "total":91,
+            "MEDICINA GENERAL":91
+         },
+         "Noviembre":{
+            "total":314,
+            "MEDICINA GENERAL":314
+         },
+         "Setiembre":{
+            "total":262,
+            "MEDICINA GENERAL":262
+         }
+      },
+      "MANYLSA":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":186,
+            "NUTRICIÓN":9,
+            "ODONTOLOGIA":17,
+            "MEDICINA GENERAL":160
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":953,
+         "Agosto":{
+            "total":96,
+            "MEDICINA GENERAL":96
+         },
+         "Febrero":{
+            "total":5,
+            "MEDICINA GENERAL":5
+         },
+         "Octubre":{
+            "total":201,
+            "ODONTOLOGIA":4,
+            "MEDICINA GENERAL":197
+         },
+         "Diciembre":{
+            "total":107,
+            "MEDICINA GENERAL":107
+         },
+         "Noviembre":{
+            "total":123,
+            "MEDICINA GENERAL":123
+         },
+         "Setiembre":{
+            "total":235,
+            "ODONTOLOGIA":14,
+            "MEDICINA GENERAL":221
+         }
+      },
+      "NOCHETO":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":3,
+            "MEDICINA GENERAL":3
+         },
+         "Enero":{
+            "total":11,
+            "MEDICINA GENERAL":11
+         },
+         "Julio":{
+            "total":27,
+            "MEDICINA GENERAL":27
+         },
+         "Junio":{
+            "total":70,
+            "ODONTOLOGIA":13,
+            "MEDICINA GENERAL":57
+         },
+         "Marzo":{
+            "total":1,
+            "MEDICINA GENERAL":1
+         },
+         "total":425,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":4,
+            "MEDICINA GENERAL":4
+         },
+         "Octubre":{
+            "total":80,
+            "MEDICINA GENERAL":80
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":76,
+            "MEDICINA GENERAL":76
+         },
+         "Setiembre":{
+            "total":153,
+            "MEDICINA GENERAL":153
+         }
+      },
+      "BETHANIA":{
+         "Mayo":{
+            "total":1,
+            "MEDICINA GENERAL":1
+         },
+         "Abril":{
+            "total":1,
+            "MEDICINA GENERAL":1
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":4,
+            "NUTRICIÓN":2,
+            "ODONTOLOGIA":1,
+            "MEDICINA GENERAL":1
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":2173,
+         "Agosto":{
+            "total":56,
+            "NUTRICIÓN":19,
+            "ODONTOLOGIA":6,
+            "MEDICINA GENERAL":31
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":632,
+            "ODONTOLOGIA":196,
+            "MEDICINA GENERAL":436
+         },
+         "Diciembre":{
+            "total":111,
+            "ODONTOLOGIA":22,
+            "MEDICINA GENERAL":89
+         },
+         "Noviembre":{
+            "total":760,
+            "ODONTOLOGIA":226,
+            "MEDICINA GENERAL":534
+         },
+         "Setiembre":{
+            "total":608,
+            "NUTRICIÓN":58,
+            "ODONTOLOGIA":131,
+            "MEDICINA GENERAL":419
+         }
+      },
+      "EL EXITO":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":2,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":1
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":2,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "HUASCATA":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":299,
+            "MEDICINA GENERAL":299
+         },
+         "Junio":{
+            "total":30,
+            "MEDICINA GENERAL":30
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":2329,
+         "Agosto":{
+            "total":234,
+            "MEDICINA GENERAL":234
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":493,
+            "MEDICINA GENERAL":493
+         },
+         "Diciembre":{
+            "total":156,
+            "MEDICINA GENERAL":156
+         },
+         "Noviembre":{
+            "total":619,
+            "MEDICINA GENERAL":619
+         },
+         "Setiembre":{
+            "total":498,
+            "MEDICINA GENERAL":498
+         }
+      },
+      "PROGRESO":{
+         "Mayo":{
+            "total":98,
+            "222400":4,
+            "MEDICINA GENERAL":94
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":230,
+            "MEDICINA GENERAL":230
+         },
+         "Junio":{
+            "total":103,
+            "ODONTOLOGIA":1,
+            "MEDICINA GENERAL":102
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":1623,
+         "Agosto":{
+            "total":261,
+            "MEDICINA GENERAL":261
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":205,
+            "MEDICINA GENERAL":205
+         },
+         "Diciembre":{
+            "total":46,
+            "MEDICINA GENERAL":46
+         },
+         "Noviembre":{
+            "total":306,
+            "MEDICINA GENERAL":306
+         },
+         "Setiembre":{
+            "total":374,
+            "MEDICINA GENERAL":374
+         }
+      },
+      "YANACOTO":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":240,
+            "MEDICINA GENERAL":240
+         },
+         "Junio":{
+            "total":24,
+            "MEDICINA GENERAL":24
+         },
+         "Marzo":{
+            "total":11,
+            "MEDICINA GENERAL":11
+         },
+         "total":1420,
+         "Agosto":{
+            "total":284,
+            "MEDICINA GENERAL":284
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":216,
+            "MEDICINA GENERAL":216
+         },
+         "Diciembre":{
+            "total":44,
+            "MEDICINA GENERAL":44
+         },
+         "Noviembre":{
+            "total":289,
+            "MEDICINA GENERAL":289
+         },
+         "Setiembre":{
+            "total":312,
+            "MEDICINA GENERAL":312
+         }
+      },
+      "ALTO PERU":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":3,
+            "ODONTOLOGIA":1,
+            "MEDICINA GENERAL":2
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":3,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "EL BOSQUE":{
+         "Mayo":{
+            "total":737,
+            "NUTRICIÓN":26,
+            "ODONTOLOGIA":100,
+            "MEDICINA GENERAL":611
+         },
+         "Abril":{
+            "total":680,
+            "NUTRICIÓN":28,
+            "ODONTOLOGIA":137,
+            "MEDICINA GENERAL":515
+         },
+         "Enero":{
+            "total":729,
+            "NUTRICIÓN":141,
+            "ODONTOLOGIA":125,
+            "MEDICINA GENERAL":463
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":567,
+            "NUTRICIÓN":26,
+            "MEDICINA GENERAL":541
+         },
+         "Marzo":{
+            "total":840,
+            "NUTRICIÓN":23,
+            "ODONTOLOGIA":230,
+            "MEDICINA GENERAL":587
+         },
+         "total":5852,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":980,
+            "NUTRICIÓN":85,
+            "ODONTOLOGIA":223,
+            "MEDICINA GENERAL":672
+         },
+         "Octubre":{
+            "total":436,
+            "NUTRICIÓN":24,
+            "MEDICINA GENERAL":412
+         },
+         "Diciembre":{
+            "total":183,
+            "NUTRICIÓN":2,
+            "ODONTOLOGIA":10,
+            "MEDICINA GENERAL":171
+         },
+         "Noviembre":{
+            "total":700,
+            "NUTRICIÓN":33,
+            "ODONTOLOGIA":41,
+            "MEDICINA GENERAL":626
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "FORTALEZA":{
+         "Mayo":{
+            "total":1695,
+            "MEDICINA GENERAL":1695
+         },
+         "Abril":{
+            "total":1738,
+            "ODONTOLOGIA":1,
+            "MEDICINA GENERAL":1737
+         },
+         "Enero":{
+            "total":1333,
+            "ODONTOLOGIA":1,
+            "MEDICINA GENERAL":1332
+         },
+         "Julio":{
+            "total":1658,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":1,
+            "MEDICINA GENERAL":1656
+         },
+         "Junio":{
+            "total":1619,
+            "MEDICINA GENERAL":1619
+         },
+         "Marzo":{
+            "total":1669,
+            "MEDICINA GENERAL":1669
+         },
+         "total":17997,
+         "Agosto":{
+            "total":1419,
+            "MEDICINA GENERAL":1419
+         },
+         "Febrero":{
+            "total":1624,
+            "MEDICINA GENERAL":1624
+         },
+         "Octubre":{
+            "total":1593,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":109,
+            "MEDICINA GENERAL":1483
+         },
+         "Diciembre":{
+            "total":457,
+            "ODONTOLOGIA":21,
+            "MEDICINA GENERAL":436
+         },
+         "Noviembre":{
+            "total":1597,
+            "ODONTOLOGIA":62,
+            "MEDICINA GENERAL":1535
+         },
+         "Setiembre":{
+            "total":1595,
+            "ODONTOLOGIA":38,
+            "MEDICINA GENERAL":1557
+         }
+      },
+      "JICAMARCA":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":17,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":2,
+            "MEDICINA GENERAL":2
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":11,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":1,
+            "MEDICINA GENERAL":9
+         },
+         "Noviembre":{
+            "total":4,
+            "MEDICINA GENERAL":4
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "LA MOLINA":{
+         "Mayo":{
+            "total":1779,
+            "MEDICINA GENERAL":1779
+         },
+         "Abril":{
+            "total":1604,
+            "MEDICINA GENERAL":1604
+         },
+         "Enero":{
+            "total":1697,
+            "NUTRICIÓN":7,
+            "MEDICINA GENERAL":1690
+         },
+         "Julio":{
+            "total":1606,
+            "MEDICINA GENERAL":1606
+         },
+         "Junio":{
+            "total":1698,
+            "MEDICINA GENERAL":1698
+         },
+         "Marzo":{
+            "total":1647,
+            "MEDICINA GENERAL":1647
+         },
+         "total":18484,
+         "Agosto":{
+            "total":1675,
+            "MEDICINA GENERAL":1675
+         },
+         "Febrero":{
+            "total":1594,
+            "MEDICINA GENERAL":1594
+         },
+         "Octubre":{
+            "total":1288,
+            "MEDICINA GENERAL":1288
+         },
+         "Diciembre":{
+            "total":399,
+            "MEDICINA GENERAL":399
+         },
+         "Noviembre":{
+            "total":1614,
+            "NUTRICIÓN":3,
+            "ODONTOLOGIA":3,
+            "MEDICINA GENERAL":1608
+         },
+         "Setiembre":{
+            "total":1883,
+            "MEDICINA GENERAL":1883
+         }
+      },
+      "MATAZANGO":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":345,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":70,
+            "ODONTOLOGIA":9,
+            "MEDICINA GENERAL":61
+         },
+         "Diciembre":{
+            "total":53,
+            "ODONTOLOGIA":5,
+            "MEDICINA GENERAL":48
+         },
+         "Noviembre":{
+            "total":222,
+            "ODONTOLOGIA":24,
+            "MEDICINA GENERAL":198
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "MOYOPAMPA":{
+         "Mayo":{
+            "total":652,
+            "MEDICINA GENERAL":652
+         },
+         "Abril":{
+            "total":532,
+            "MEDICINA GENERAL":532
+         },
+         "Enero":{
+            "total":331,
+            "MEDICINA GENERAL":331
+         },
+         "Julio":{
+            "total":469,
+            "MEDICINA GENERAL":469
+         },
+         "Junio":{
+            "total":561,
+            "MEDICINA GENERAL":561
+         },
+         "Marzo":{
+            "total":505,
+            "MEDICINA GENERAL":505
+         },
+         "total":5516,
+         "Agosto":{
+            "total":531,
+            "MEDICINA GENERAL":531
+         },
+         "Febrero":{
+            "total":517,
+            "MEDICINA GENERAL":517
+         },
+         "Octubre":{
+            "total":348,
+            "MEDICINA GENERAL":348
+         },
+         "Diciembre":{
+            "total":73,
+            "MEDICINA GENERAL":73
+         },
+         "Noviembre":{
+            "total":349,
+            "MEDICINA GENERAL":349
+         },
+         "Setiembre":{
+            "total":648,
+            "MEDICINA GENERAL":648
+         }
+      },
+      "PRIMAVERA":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":3,
+            "NUTRICIÓN":3
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":1663,
+         "Agosto":{
+            "total":74,
+            "NUTRICIÓN":5,
+            "MEDICINA GENERAL":69
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":735,
+            "NUTRICIÓN":76,
+            "MEDICINA GENERAL":659
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":205,
+            "NUTRICIÓN":31,
+            "MEDICINA GENERAL":174
+         },
+         "Setiembre":{
+            "total":646,
+            "NUTRICIÓN":68,
+            "MEDICINA GENERAL":578
+         }
+      },
+      "SALAMANCA":{
+         "Mayo":{
+            "total":1060,
+            "NUTRICIÓN":114,
+            "MEDICINA GENERAL":946
+         },
+         "Abril":{
+            "total":952,
+            "NUTRICIÓN":141,
+            "MEDICINA GENERAL":811
+         },
+         "Enero":{
+            "total":1154,
+            "NUTRICIÓN":151,
+            "MEDICINA GENERAL":1003
+         },
+         "Julio":{
+            "total":929,
+            "NUTRICIÓN":77,
+            "MEDICINA GENERAL":852
+         },
+         "Junio":{
+            "total":1176,
+            "NUTRICIÓN":127,
+            "MEDICINA GENERAL":1049
+         },
+         "Marzo":{
+            "total":1154,
+            "NUTRICIÓN":150,
+            "MEDICINA GENERAL":1004
+         },
+         "total":11447,
+         "Agosto":{
+            "total":811,
+            "NUTRICIÓN":110,
+            "MEDICINA GENERAL":701
+         },
+         "Febrero":{
+            "total":924,
+            "NUTRICIÓN":110,
+            "MEDICINA GENERAL":814
+         },
+         "Octubre":{
+            "total":1003,
+            "NUTRICIÓN":108,
+            "MEDICINA GENERAL":895
+         },
+         "Diciembre":{
+            "total":254,
+            "NUTRICIÓN":16,
+            "MEDICINA GENERAL":238
+         },
+         "Noviembre":{
+            "total":1033,
+            "NUTRICIÓN":113,
+            "MEDICINA GENERAL":920
+         },
+         "Setiembre":{
+            "total":997,
+            "NUTRICIÓN":88,
+            "MEDICINA GENERAL":909
+         }
+      },
+      "CHACRASANA":{
+         "Mayo":{
+            "total":220,
+            "MEDICINA GENERAL":220
+         },
+         "Abril":{
+            "total":89,
+            "MEDICINA GENERAL":86,
+            "ODONTOLOGIA GENERAL":3
+         },
+         "Enero":{
+            "total":128,
+            "MEDICINA GENERAL":128
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":167,
+            "MEDICINA GENERAL":167
+         },
+         "Marzo":{
+            "total":144,
+            "MEDICINA GENERAL":144
+         },
+         "total":1574,
+         "Agosto":{
+            "total":157,
+            "MEDICINA GENERAL":157
+         },
+         "Febrero":{
+            "total":101,
+            "MEDICINA GENERAL":101
+         },
+         "Octubre":{
+            "total":128,
+            "MEDICINA GENERAL":128
+         },
+         "Diciembre":{
+            "total":52,
+            "MEDICINA GENERAL":52
+         },
+         "Noviembre":{
+            "total":195,
+            "MEDICINA GENERAL":195
+         },
+         "Setiembre":{
+            "total":193,
+            "MEDICINA GENERAL":193
+         }
+      },
+      "SAN CARLOS":{
+         "Mayo":{
+            "total":668,
+            "ODONTOLOGIA":139,
+            "MEDICINA GENERAL":529
+         },
+         "Abril":{
+            "total":633,
+            "ODONTOLOGIA":163,
+            "MEDICINA GENERAL":470
+         },
+         "Enero":{
+            "total":639,
+            "ODONTOLOGIA":179,
+            "MEDICINA GENERAL":460
+         },
+         "Julio":{
+            "total":569,
+            "ODONTOLOGIA":138,
+            "MEDICINA GENERAL":431
+         },
+         "Junio":{
+            "total":584,
+            "ODONTOLOGIA":94,
+            "MEDICINA GENERAL":490
+         },
+         "Marzo":{
+            "total":745,
+            "NUTRICIÓN":22,
+            "ODONTOLOGIA":178,
+            "MEDICINA GENERAL":545
+         },
+         "total":7473,
+         "Agosto":{
+            "total":681,
+            "ODONTOLOGIA":153,
+            "MEDICINA GENERAL":528
+         },
+         "Febrero":{
+            "total":723,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":154,
+            "MEDICINA GENERAL":568
+         },
+         "Octubre":{
+            "total":755,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":144,
+            "MEDICINA GENERAL":610
+         },
+         "Diciembre":{
+            "total":171,
+            "ODONTOLOGIA":23,
+            "MEDICINA GENERAL":148
+         },
+         "Noviembre":{
+            "total":554,
+            "NUTRICIÓN":3,
+            "ODONTOLOGIA":159,
+            "MEDICINA GENERAL":392
+         },
+         "Setiembre":{
+            "total":751,
+            "ODONTOLOGIA":102,
+            "MEDICINA GENERAL":649
+         }
+      },
+      "VILLA RICA":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":1,
+            "ODONTOLOGIA":1
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":1,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "EL AGUSTINO":{
+         "Mayo":{
+            "total":439,
+            "ODONTOLOGIA":9,
+            "MEDICINA GENERAL":430
+         },
+         "Abril":{
+            "total":441,
+            "ODONTOLOGIA":2,
+            "MEDICINA GENERAL":439
+         },
+         "Enero":{
+            "total":125,
+            "MEDICINA GENERAL":125
+         },
+         "Julio":{
+            "total":305,
+            "MEDICINA GENERAL":305
+         },
+         "Junio":{
+            "total":424,
+            "MEDICINA GENERAL":424
+         },
+         "Marzo":{
+            "total":416,
+            "ODONTOLOGIA":2,
+            "MEDICINA GENERAL":414
+         },
+         "total":4176,
+         "Agosto":{
+            "total":248,
+            "NUTRICIÓN":12,
+            "MEDICINA GENERAL":236
+         },
+         "Febrero":{
+            "total":147,
+            "MEDICINA GENERAL":147
+         },
+         "Octubre":{
+            "total":546,
+            "NUTRICIÓN":15,
+            "ODONTOLOGIA":69,
+            "MEDICINA GENERAL":462
+         },
+         "Diciembre":{
+            "total":87,
+            "NUTRICIÓN":2,
+            "MEDICINA GENERAL":85
+         },
+         "Noviembre":{
+            "total":516,
+            "NUTRICIÓN":13,
+            "ODONTOLOGIA":63,
+            "MEDICINA GENERAL":440
+         },
+         "Setiembre":{
+            "total":482,
+            "NUTRICIÓN":32,
+            "ODONTOLOGIA":21,
+            "MEDICINA GENERAL":429
+         }
+      },
+      "MIGUEL GRAU":{
+         "Mayo":{
+            "total":644,
+            "222400":1,
+            "PEDIATRIA":184,
+            "MEDICINA GENERAL":456,
+            "ODONTOLOGIA GENERAL":3
+         },
+         "Abril":{
+            "total":757,
+            "PEDIATRIA":201,
+            "MEDICINA GENERAL":549,
+            "ODONTOLOGIA GENERAL":7
+         },
+         "Enero":{
+            "total":597,
+            "PEDIATRIA":312,
+            "MEDICINA GENERAL":233,
+            "ODONTOLOGIA GENERAL":52
+         },
+         "Julio":{
+            "total":724,
+            "PEDIATRÍA":206,
+            "ODONTOLOGIA":14,
+            "MEDICINA GENERAL":504
+         },
+         "Junio":{
+            "total":610,
+            "PEDIATRÍA":160,
+            "ODONTOLOGIA":30,
+            "MEDICINA GENERAL":420
+         },
+         "Marzo":{
+            "total":717,
+            "222400":10,
+            "PEDIATRIA":234,
+            "MEDICINA GENERAL":472,
+            "ODONTOLOGIA GENERAL":1
+         },
+         "total":6857,
+         "Agosto":{
+            "total":475,
+            "PEDIATRÍA":102,
+            "ODONTOLOGIA":2,
+            "MEDICINA GENERAL":371
+         },
+         "Febrero":{
+            "total":717,
+            "222400":2,
+            "PEDIATRIA":163,
+            "MEDICINA GENERAL":512,
+            "MEDICINA FAMILIAR":28,
+            "ODONTOLOGIA GENERAL":12
+         },
+         "Octubre":{
+            "total":321,
+            "PEDIATRÍA":43,
+            "ODONTOLOGIA":21,
+            "MEDICINA GENERAL":257
+         },
+         "Diciembre":{
+            "total":141,
+            "MEDICINA GENERAL":141
+         },
+         "Noviembre":{
+            "total":529,
+            "PEDIATRÍA":70,
+            "MEDICINA GENERAL":459
+         },
+         "Setiembre":{
+            "total":625,
+            "NUTRICIÓN":9,
+            "PEDIATRÍA":72,
+            "ODONTOLOGIA":3,
+            "MEDICINA GENERAL":541
+         }
+      },
+      "NUEVA GALES":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":0,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "SAN ANTONIO":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":363,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":3,
+            "MEDICINA GENERAL":3
+         },
+         "Octubre":{
+            "total":40,
+            "ODONTOLOGIA":4,
+            "MEDICINA GENERAL":36
+         },
+         "Diciembre":{
+            "total":36,
+            "MEDICINA GENERAL":36
+         },
+         "Noviembre":{
+            "total":284,
+            "ODONTOLOGIA":7,
+            "MEDICINA GENERAL":277
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "SANTA ANITA":{
+         "Mayo":{
+            "total":123,
+            "ODONTOLOGIA":79,
+            "MEDICINA GENERAL":44
+         },
+         "Abril":{
+            "total":125,
+            "ODONTOLOGIA":52,
+            "MEDICINA GENERAL":73
+         },
+         "Enero":{
+            "total":67,
+            "ODONTOLOGIA":38,
+            "MEDICINA GENERAL":29
+         },
+         "Julio":{
+            "total":115,
+            "NUTRICIÓN":65,
+            "PEDIATRÍA":9,
+            "ODONTOLOGIA":30,
+            "MEDICINA GENERAL":11
+         },
+         "Junio":{
+            "total":235,
+            "NUTRICIÓN":113,
+            "ODONTOLOGIA":57,
+            "MEDICINA GENERAL":65
+         },
+         "Marzo":{
+            "total":140,
+            "ODONTOLOGIA":61,
+            "MEDICINA GENERAL":79
+         },
+         "total":1280,
+         "Agosto":{
+            "total":99,
+            "PEDIATRÍA":83,
+            "ODONTOLOGIA":3,
+            "MEDICINA GENERAL":13
+         },
+         "Febrero":{
+            "total":117,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":61,
+            "MEDICINA GENERAL":55
+         },
+         "Octubre":{
+            "total":64,
+            "PEDIATRÍA":16,
+            "ODONTOLOGIA":48
+         },
+         "Diciembre":{
+            "total":26,
+            "ODONTOLOGIA":8,
+            "MEDICINA GENERAL":18
+         },
+         "Noviembre":{
+            "total":66,
+            "PEDIATRÍA":9,
+            "ODONTOLOGIA":57
+         },
+         "Setiembre":{
+            "total":103,
+            "PEDIATRÍA":48,
+            "ODONTOLOGIA":55
+         }
+      },
+      "SANTA CLARA":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":228,
+            "MEDICINA GENERAL":228
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":203,
+            "MEDICINA GENERAL":203
+         },
+         "total":726,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":295,
+            "MEDICINA GENERAL":295
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "TAMBO VIEJO":{
+         "Mayo":{
+            "total":1472,
+            "NUTRICIÓN":120,
+            "MEDICINA GENERAL":1158,
+            "MEDICINA INTERNA":113,
+            "GINECOLOGÍA Y OBSTETRICIA":81
+         },
+         "Abril":{
+            "total":1443,
+            "NUTRICIÓN":110,
+            "MEDICINA GENERAL":1088,
+            "MEDICINA INTERNA":186,
+            "GINECOLOGÍA Y OBSTETRICIA":59
+         },
+         "Enero":{
+            "total":1399,
+            "NUTRICIÓN":113,
+            "ODONTOLOGIA":19,
+            "MEDICINA GENERAL":1028,
+            "MEDICINA INTERNA":239
+         },
+         "Julio":{
+            "total":1188,
+            "NUTRICIÓN":71,
+            "MEDICINA GENERAL":910,
+            "MEDICINA INTERNA":176,
+            "GINECOLOGÍA Y OBSTETRICIA":31
+         },
+         "Junio":{
+            "total":1384,
+            "NUTRICIÓN":107,
+            "MEDICINA GENERAL":1081,
+            "MEDICINA INTERNA":117,
+            "GINECOLOGÍA Y OBSTETRICIA":79
+         },
+         "Marzo":{
+            "total":1677,
+            "NUTRICIÓN":138,
+            "MEDICINA GENERAL":1271,
+            "MEDICINA INTERNA":213,
+            "GINECOLOGÍA Y OBSTETRICIA":55
+         },
+         "total":14235,
+         "Agosto":{
+            "total":936,
+            "NUTRICIÓN":34,
+            "MEDICINA GENERAL":849,
+            "MEDICINA INTERNA":17,
+            "GINECOLOGÍA Y OBSTETRICIA":36
+         },
+         "Febrero":{
+            "total":1254,
+            "NUTRICIÓN":100,
+            "MEDICINA GENERAL":877,
+            "MEDICINA INTERNA":252,
+            "GINECOLOGÍA Y OBSTETRICIA":25
+         },
+         "Octubre":{
+            "total":1209,
+            "NUTRICIÓN":55,
+            "DISCAPACIDAD":28,
+            "MEDICINA GENERAL":893,
+            "MEDICINA INTERNA":33,
+            "OTORRINOLARINGOLOGÍA":135,
+            "GINECOLOGÍA Y OBSTETRICIA":65
+         },
+         "Diciembre":{
+            "total":216,
+            "UROLOGÍA":41,
+            "NUTRICIÓN":1,
+            "DISCAPACIDAD":4,
+            "MEDICINA GENERAL":137,
+            "MEDICINA FAMILIAR":33
+         },
+         "Noviembre":{
+            "total":1036,
+            "NUTRICIÓN":27,
+            "DISCAPACIDAD":43,
+            "MEDICINA GENERAL":803,
+            "MEDICINA INTERNA":29,
+            "OTORRINOLARINGOLOGÍA":116,
+            "GINECOLOGÍA Y OBSTETRICIA":18
+         },
+         "Setiembre":{
+            "total":1021,
+            "NUTRICIÓN":17,
+            "DISCAPACIDAD":35,
+            "MEDICINA GENERAL":757,
+            "MEDICINA INTERNA":28,
+            "OTORRINOLARINGOLOGÍA":150,
+            "GINECOLOGÍA Y OBSTETRICIA":34
+         }
+      },
+      "TUPAC AMARU":{
+         "Mayo":{
+            "total":328,
+            "MEDICINA GENERAL":328
+         },
+         "Abril":{
+            "total":399,
+            "MEDICINA GENERAL":399
+         },
+         "Enero":{
+            "total":344,
+            "MEDICINA GENERAL":344
+         },
+         "Julio":{
+            "total":305,
+            "MEDICINA GENERAL":305
+         },
+         "Junio":{
+            "total":354,
+            "MEDICINA GENERAL":354
+         },
+         "Marzo":{
+            "total":314,
+            "MEDICINA GENERAL":314
+         },
+         "total":4277,
+         "Agosto":{
+            "total":379,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":1,
+            "MEDICINA GENERAL":377
+         },
+         "Febrero":{
+            "total":443,
+            "NUTRICIÓN":1,
+            "MEDICINA GENERAL":442
+         },
+         "Octubre":{
+            "total":417,
+            "MEDICINA GENERAL":417
+         },
+         "Diciembre":{
+            "total":89,
+            "MEDICINA GENERAL":89
+         },
+         "Noviembre":{
+            "total":436,
+            "NUTRICIÓN":1,
+            "MEDICINA GENERAL":435
+         },
+         "Setiembre":{
+            "total":469,
+            "MEDICINA GENERAL":469
+         }
+      },
+      "7 DE OCTUBRE":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":44,
+            "NUTRICIÓN":5,
+            "MEDICINA GENERAL":39
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":44,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "ALFA Y OMEGA":{
+         "Mayo":{
+            "total":780,
+            "NUTRICIÓN":5,
+            "MEDICINA GENERAL":775
+         },
+         "Abril":{
+            "total":758,
+            "NUTRICIÓN":4,
+            "MEDICINA GENERAL":754
+         },
+         "Enero":{
+            "total":755,
+            "NUTRICIÓN":15,
+            "MEDICINA GENERAL":740
+         },
+         "Julio":{
+            "total":1212,
+            "NUTRICIÓN":16,
+            "MEDICINA GENERAL":1196
+         },
+         "Junio":{
+            "total":926,
+            "NUTRICIÓN":19,
+            "MEDICINA GENERAL":907
+         },
+         "Marzo":{
+            "total":1024,
+            "NUTRICIÓN":16,
+            "MEDICINA GENERAL":1008
+         },
+         "total":9175,
+         "Agosto":{
+            "total":360,
+            "MEDICINA GENERAL":360
+         },
+         "Febrero":{
+            "total":882,
+            "NUTRICIÓN":18,
+            "MEDICINA GENERAL":864
+         },
+         "Octubre":{
+            "total":1074,
+            "MEDICINA GENERAL":1074
+         },
+         "Diciembre":{
+            "total":322,
+            "ODONTOLOGIA":1,
+            "MEDICINA GENERAL":321
+         },
+         "Noviembre":{
+            "total":1049,
+            "MEDICINA GENERAL":1049
+         },
+         "Setiembre":{
+            "total":33,
+            "MEDICINA GENERAL":33
+         }
+      },
+      "ANCIETA BAJA":{
+         "Mayo":{
+            "total":611,
+            "ODONTOLOGIA":100,
+            "MEDICINA GENERAL":511
+         },
+         "Abril":{
+            "total":637,
+            "ODONTOLOGIA":110,
+            "MEDICINA GENERAL":527
+         },
+         "Enero":{
+            "total":851,
+            "ODONTOLOGIA":287,
+            "MEDICINA GENERAL":564
+         },
+         "Julio":{
+            "total":228,
+            "ODONTOLOGIA":73,
+            "MEDICINA GENERAL":155
+         },
+         "Junio":{
+            "total":636,
+            "ODONTOLOGIA":125,
+            "MEDICINA GENERAL":511
+         },
+         "Marzo":{
+            "total":716,
+            "ODONTOLOGIA":181,
+            "MEDICINA GENERAL":535
+         },
+         "total":5090,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":930,
+            "ODONTOLOGIA":376,
+            "MEDICINA GENERAL":554
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":140,
+            "ODONTOLOGIA":30,
+            "MEDICINA GENERAL":110
+         },
+         "Noviembre":{
+            "total":341,
+            "ODONTOLOGIA":65,
+            "MEDICINA GENERAL":276
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "PABLO PATRON":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":24,
+            "MEDICINA GENERAL":24
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":24,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "SAN FERNANDO":{
+         "Mayo":{
+            "total":122,
+            "PEDIATRÍA":111,
+            "MEDICINA GENERAL":11
+         },
+         "Abril":{
+            "total":43,
+            "PEDIATRÍA":18,
+            "MEDICINA GENERAL":25
+         },
+         "Enero":{
+            "total":102,
+            "PEDIATRÍA":74,
+            "MEDICINA GENERAL":28
+         },
+         "Julio":{
+            "total":26,
+            "PEDIATRÍA":23,
+            "MEDICINA GENERAL":3
+         },
+         "Junio":{
+            "total":52,
+            "PEDIATRÍA":19,
+            "MEDICINA GENERAL":33
+         },
+         "Marzo":{
+            "total":12,
+            "PEDIATRÍA":4,
+            "MEDICINA GENERAL":8
+         },
+         "total":4045,
+         "Agosto":{
+            "total":32,
+            "PEDIATRÍA":32
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":1394,
+            "NUTRICIÓN":41,
+            "PEDIATRÍA":170,
+            "ODONTOLOGIA":185,
+            "MEDICINA GENERAL":998
+         },
+         "Diciembre":{
+            "total":211,
+            "NUTRICIÓN":6,
+            "PEDIATRÍA":40,
+            "ODONTOLOGIA":44,
+            "MEDICINA GENERAL":121
+         },
+         "Noviembre":{
+            "total":1319,
+            "NUTRICIÓN":23,
+            "PEDIATRÍA":132,
+            "ODONTOLOGIA":216,
+            "MEDICINA GENERAL":948
+         },
+         "Setiembre":{
+            "total":732,
+            "NUTRICIÓN":24,
+            "PEDIATRÍA":111,
+            "ODONTOLOGIA":158,
+            "MEDICINA GENERAL":436,
+            "ODONTOPEDIATRÍA":3
+         }
+      },
+      "ALTO HUAMPANI":{
+         "Mayo":{
+            "total":195,
+            "MEDICINA GENERAL":195
+         },
+         "Abril":{
+            "total":209,
+            "MEDICINA GENERAL":209
+         },
+         "Enero":{
+            "total":190,
+            "MEDICINA GENERAL":190
+         },
+         "Julio":{
+            "total":212,
+            "MEDICINA GENERAL":212
+         },
+         "Junio":{
+            "total":189,
+            "MEDICINA GENERAL":189
+         },
+         "Marzo":{
+            "total":132,
+            "MEDICINA GENERAL":132
+         },
+         "total":2103,
+         "Agosto":{
+            "total":64,
+            "MEDICINA GENERAL":64
+         },
+         "Febrero":{
+            "total":190,
+            "MEDICINA GENERAL":190
+         },
+         "Octubre":{
+            "total":198,
+            "MEDICINA GENERAL":198
+         },
+         "Diciembre":{
+            "total":33,
+            "MEDICINA GENERAL":33
+         },
+         "Noviembre":{
+            "total":239,
+            "MEDICINA GENERAL":239
+         },
+         "Setiembre":{
+            "total":252,
+            "MEDICINA GENERAL":252
+         }
+      },
+      "METROPOLITANA":{
+         "Mayo":{
+            "total":537,
+            "ODONTOLOGIA":82,
+            "MEDICINA GENERAL":455
+         },
+         "Abril":{
+            "total":489,
+            "ODONTOLOGIA":72,
+            "MEDICINA GENERAL":417
+         },
+         "Enero":{
+            "total":62,
+            "ODONTOLOGIA":6,
+            "MEDICINA GENERAL":56
+         },
+         "Julio":{
+            "total":393,
+            "ODONTOLOGIA":19,
+            "MEDICINA GENERAL":374
+         },
+         "Junio":{
+            "total":488,
+            "ODONTOLOGIA":53,
+            "MEDICINA GENERAL":435
+         },
+         "Marzo":{
+            "total":539,
+            "ODONTOLOGIA":97,
+            "MEDICINA GENERAL":442
+         },
+         "total":4755,
+         "Agosto":{
+            "total":320,
+            "MEDICINA GENERAL":320
+         },
+         "Febrero":{
+            "total":404,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":101,
+            "MEDICINA GENERAL":302
+         },
+         "Octubre":{
+            "total":408,
+            "ODONTOLOGIA":39,
+            "MEDICINA GENERAL":369
+         },
+         "Diciembre":{
+            "total":132,
+            "MEDICINA GENERAL":132
+         },
+         "Noviembre":{
+            "total":567,
+            "ODONTOLOGIA":37,
+            "MEDICINA GENERAL":530
+         },
+         "Setiembre":{
+            "total":416,
+            "ODONTOLOGIA":10,
+            "MEDICINA GENERAL":406
+         }
+      },
+      "PERLA DEL SOL":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":1,
+            "MEDICINA GENERAL":1
+         },
+         "Marzo":{
+            "total":15,
+            "MEDICINA GENERAL":15
+         },
+         "total":16,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "LA FRATERNIDAD":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":27,
+            "NUTRICION":27
+         },
+         "Enero":{
+            "total":1,
+            "MEDICINA GENERAL":1
+         },
+         "Julio":{
+            "total":4,
+            "ODONTOLOGIA":4
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":18,
+            "NUTRICION":18
+         },
+         "total":84,
+         "Agosto":{
+            "total":9,
+            "NUTRICIÓN":9
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":4,
+            "MEDICINA GENERAL":4
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":21,
+            "ODONTOLOGIA":5,
+            "MEDICINA GENERAL":16
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "VILLA  DEL SOL":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":4,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":4,
+            "ODONTOLOGIA":1,
+            "MEDICINA GENERAL":3
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "VILLA MERCEDES":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":12,
+            "MEDICINA GENERAL":12
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":37,
+         "Agosto":{
+            "total":24,
+            "MEDICINA GENERAL":24
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":1,
+            "MEDICINA GENERAL":1
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "CATALINA HUANCA":{
+         "Mayo":{
+            "total":914,
+            "NUTRICIÓN":58,
+            "MEDICINA GENERAL":856
+         },
+         "Abril":{
+            "total":824,
+            "NUTRICIÓN":56,
+            "ODONTOLOGIA":1,
+            "MEDICINA GENERAL":767
+         },
+         "Enero":{
+            "total":317,
+            "NUTRICIÓN":7,
+            "MEDICINA GENERAL":310
+         },
+         "Julio":{
+            "total":885,
+            "NUTRICIÓN":68,
+            "ODONTOLOGIA":140,
+            "MEDICINA GENERAL":677
+         },
+         "Junio":{
+            "total":935,
+            "NUTRICIÓN":70,
+            "ODONTOLOGIA":130,
+            "MEDICINA GENERAL":735
+         },
+         "Marzo":{
+            "total":739,
+            "NUTRICIÓN":56,
+            "MEDICINA GENERAL":683
+         },
+         "total":8820,
+         "Agosto":{
+            "total":894,
+            "NUTRICIÓN":20,
+            "ODONTOLOGIA":90,
+            "MEDICINA GENERAL":784
+         },
+         "Febrero":{
+            "total":419,
+            "NUTRICIÓN":28,
+            "ODONTOLOGIA":15,
+            "MEDICINA GENERAL":376
+         },
+         "Octubre":{
+            "total":887,
+            "NUTRICIÓN":17,
+            "MEDICINA GENERAL":870
+         },
+         "Diciembre":{
+            "total":240,
+            "MEDICINA GENERAL":240
+         },
+         "Noviembre":{
+            "total":783,
+            "NUTRICIÓN":5,
+            "MEDICINA GENERAL":778
+         },
+         "Setiembre":{
+            "total":983,
+            "NUTRICIÓN":8,
+            "ODONTOLOGIA":95,
+            "MEDICINA GENERAL":880
+         }
+      },
+      "GUSTAVO LANATTA":{
+         "Mayo":{
+            "total":604,
+            "ODONTOLOGIA":31,
+            "MEDICINA GENERAL":573
+         },
+         "Abril":{
+            "total":725,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":75,
+            "MEDICINA GENERAL":649
+         },
+         "Enero":{
+            "total":664,
+            "NUTRICIÓN":10,
+            "ODONTOLOGIA":42,
+            "MEDICINA GENERAL":612
+         },
+         "Julio":{
+            "total":507,
+            "NUTRICIÓN":2,
+            "ODONTOLOGIA":62,
+            "MEDICINA GENERAL":443
+         },
+         "Junio":{
+            "total":578,
+            "ODONTOLOGIA":72,
+            "MEDICINA GENERAL":506
+         },
+         "Marzo":{
+            "total":797,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":65,
+            "MEDICINA GENERAL":731
+         },
+         "total":7623,
+         "Agosto":{
+            "total":427,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":59,
+            "MEDICINA GENERAL":367
+         },
+         "Febrero":{
+            "total":706,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":70,
+            "MEDICINA GENERAL":635
+         },
+         "Octubre":{
+            "total":789,
+            "NUTRICIÓN":30,
+            "ODONTOLOGIA":90,
+            "MEDICINA GENERAL":669
+         },
+         "Diciembre":{
+            "total":180,
+            "NUTRICIÓN":6,
+            "ODONTOLOGIA":24,
+            "MEDICINA GENERAL":150
+         },
+         "Noviembre":{
+            "total":750,
+            "NUTRICIÓN":55,
+            "ODONTOLOGIA":80,
+            "MEDICINA GENERAL":615
+         },
+         "Setiembre":{
+            "total":896,
+            "NUTRICIÓN":31,
+            "ODONTOLOGIA":72,
+            "MEDICINA GENERAL":793
+         }
+      },
+      "PORTADA DEL SOL":{
+         "Mayo":{
+            "total":1071,
+            "NUTRICIÓN":35,
+            "MEDICINA GENERAL":1036
+         },
+         "Abril":{
+            "total":990,
+            "NUTRICIÓN":53,
+            "MEDICINA GENERAL":937
+         },
+         "Enero":{
+            "total":869,
+            "NUTRICIÓN":47,
+            "MEDICINA GENERAL":822
+         },
+         "Julio":{
+            "total":917,
+            "NUTRICIÓN":26,
+            "MEDICINA GENERAL":891
+         },
+         "Junio":{
+            "total":931,
+            "NUTRICIÓN":46,
+            "MEDICINA GENERAL":885
+         },
+         "Marzo":{
+            "total":1112,
+            "NUTRICIÓN":63,
+            "MEDICINA GENERAL":1049
+         },
+         "total":11129,
+         "Agosto":{
+            "total":1010,
+            "NUTRICIÓN":32,
+            "MEDICINA GENERAL":978
+         },
+         "Febrero":{
+            "total":980,
+            "NUTRICIÓN":56,
+            "MEDICINA GENERAL":924
+         },
+         "Octubre":{
+            "total":888,
+            "NUTRICIÓN":22,
+            "MEDICINA GENERAL":866
+         },
+         "Diciembre":{
+            "total":287,
+            "NUTRICIÓN":7,
+            "MEDICINA GENERAL":280
+         },
+         "Noviembre":{
+            "total":987,
+            "NUTRICIÓN":29,
+            "MEDICINA GENERAL":958
+         },
+         "Setiembre":{
+            "total":1087,
+            "NUTRICIÓN":31,
+            "MEDICINA GENERAL":1056
+         }
+      },
+      "TRES DE OCTUBRE":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":12,
+            "MEDICINA GENERAL":12
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":785,
+         "Agosto":{
+            "total":65,
+            "MEDICINA GENERAL":65
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":242,
+            "MEDICINA GENERAL":242
+         },
+         "Diciembre":{
+            "total":37,
+            "MEDICINA GENERAL":37
+         },
+         "Noviembre":{
+            "total":212,
+            "MEDICINA GENERAL":212
+         },
+         "Setiembre":{
+            "total":217,
+            "MEDICINA GENERAL":217
+         }
+      },
+      "HORACIO ZEVALLOS":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":14,
+            "MEDICINA GENERAL":14
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":420,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":27,
+            "ODONTOLOGIA":3,
+            "MEDICINA GENERAL":24
+         },
+         "Diciembre":{
+            "total":36,
+            "MEDICINA GENERAL":36
+         },
+         "Noviembre":{
+            "total":343,
+            "MEDICINA GENERAL":343
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "MICAELA BASTIDAS":{
+         "Mayo":{
+            "total":1023,
+            "NUTRICIÓN":2,
+            "ODONTOLOGIA":81,
+            "MEDICINA GENERAL":940
+         },
+         "Abril":{
+            "total":1099,
+            "NUTRICIÓN":2,
+            "ODONTOLOGIA":97,
+            "MEDICINA GENERAL":1000
+         },
+         "Enero":{
+            "total":1049,
+            "NUTRICIÓN":7,
+            "ODONTOLOGIA":129,
+            "MEDICINA GENERAL":913
+         },
+         "Julio":{
+            "total":1078,
+            "ODONTOLOGIA":101,
+            "MEDICINA GENERAL":977
+         },
+         "Junio":{
+            "total":1120,
+            "NUTRICIÓN":3,
+            "ODONTOLOGIA":119,
+            "MEDICINA GENERAL":998
+         },
+         "Marzo":{
+            "total":1258,
+            "NUTRICIÓN":20,
+            "ODONTOLOGIA":150,
+            "MEDICINA GENERAL":1088
+         },
+         "total":12541,
+         "Agosto":{
+            "total":948,
+            "ODONTOLOGIA":92,
+            "MEDICINA GENERAL":856
+         },
+         "Febrero":{
+            "total":1285,
+            "NUTRICIÓN":5,
+            "ODONTOLOGIA":161,
+            "MEDICINA GENERAL":1119
+         },
+         "Octubre":{
+            "total":1062,
+            "NUTRICIÓN":16,
+            "ODONTOLOGIA":175,
+            "MEDICINA GENERAL":871
+         },
+         "Diciembre":{
+            "total":271,
+            "NUTRICIÓN":2,
+            "ODONTOLOGIA":56,
+            "MEDICINA GENERAL":213
+         },
+         "Noviembre":{
+            "total":1141,
+            "NUTRICIÓN":10,
+            "ODONTOLOGIA":179,
+            "MEDICINA GENERAL":952
+         },
+         "Setiembre":{
+            "total":1207,
+            "NUTRICIÓN":4,
+            "ODONTOLOGIA":105,
+            "MEDICINA GENERAL":1098
+         }
+      },
+      "CERRO EL AGUSTINO":{
+         "Mayo":{
+            "total":34,
+            "MEDICINA GENERAL":34
+         },
+         "Abril":{
+            "total":1,
+            "MEDICINA GENERAL":1
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":225,
+            "MEDICINA GENERAL":225
+         },
+         "Junio":{
+            "total":180,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":3,
+            "MEDICINA GENERAL":176
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":1529,
+         "Agosto":{
+            "total":286,
+            "MEDICINA GENERAL":286
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":148,
+            "MEDICINA GENERAL":148
+         },
+         "Diciembre":{
+            "total":94,
+            "MEDICINA GENERAL":94
+         },
+         "Noviembre":{
+            "total":323,
+            "MEDICINA GENERAL":323
+         },
+         "Setiembre":{
+            "total":238,
+            "MEDICINA GENERAL":238
+         }
+      },
+      "CESAR LOPEZ SILVA":{
+         "Mayo":{
+            "total":919,
+            "222400":6,
+            "NUTRICION":6,
+            "MEDICINA GENERAL":907
+         },
+         "Abril":{
+            "total":889,
+            "222400":3,
+            "NUTRICION":3,
+            "MEDICINA GENERAL":871,
+            "ODONTOLOGIA GENERAL":12
+         },
+         "Enero":{
+            "total":715,
+            "222400":6,
+            "NUTRICION":9,
+            "MEDICINA GENERAL":692,
+            "ODONTOLOGIA GENERAL":8
+         },
+         "Julio":{
+            "total":772,
+            "MEDICINA GENERAL":772
+         },
+         "Junio":{
+            "total":845,
+            "NUTRICIÓN":6,
+            "MEDICINA GENERAL":839
+         },
+         "Marzo":{
+            "total":928,
+            "222400":1,
+            "NUTRICION":8,
+            "MEDICINA GENERAL":877,
+            "ODONTOLOGIA GENERAL":42
+         },
+         "total":9345,
+         "Agosto":{
+            "total":854,
+            "NUTRICIÓN":2,
+            "MEDICINA GENERAL":852
+         },
+         "Febrero":{
+            "total":758,
+            "222400":3,
+            "NUTRICION":4,
+            "MEDICINA GENERAL":751
+         },
+         "Octubre":{
+            "total":834,
+            "MEDICINA GENERAL":834
+         },
+         "Diciembre":{
+            "total":152,
+            "MEDICINA GENERAL":152
+         },
+         "Noviembre":{
+            "total":807,
+            "NUTRICIÓN":2,
+            "MEDICINA GENERAL":805
+         },
+         "Setiembre":{
+            "total":872,
+            "NUTRICIÓN":1,
+            "MEDICINA GENERAL":871
+         }
+      },
+      "MARISCAL CASTILLA":{
+         "Mayo":{
+            "total":130,
+            "MEDICINA GENERAL":130
+         },
+         "Abril":{
+            "total":124,
+            "MEDICINA GENERAL":124
+         },
+         "Enero":{
+            "total":94,
+            "MEDICINA GENERAL":94
+         },
+         "Julio":{
+            "total":16,
+            "MEDICINA GENERAL":16
+         },
+         "Junio":{
+            "total":75,
+            "MEDICINA GENERAL":75
+         },
+         "Marzo":{
+            "total":142,
+            "MEDICINA GENERAL":142
+         },
+         "total":777,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":134,
+            "MEDICINA GENERAL":134
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":7,
+            "MEDICINA GENERAL":7
+         },
+         "Noviembre":{
+            "total":50,
+            "MEDICINA GENERAL":50
+         },
+         "Setiembre":{
+            "total":5,
+            "MEDICINA GENERAL":5
+         }
+      },
+      "NICOLAS DE PIEROLA":{
+         "Mayo":{
+            "total":3,
+            "MEDICINA GENERAL":3
+         },
+         "Abril":{
+            "total":16,
+            "MEDICINA GENERAL":6,
+            "ODONTOLOGIA GENERAL":10
+         },
+         "Enero":{
+            "total":8,
+            "MEDICINA GENERAL":7,
+            "ODONTOLOGIA GENERAL":1
+         },
+         "Julio":{
+            "total":23,
+            "ODONTOLOGIA":22,
+            "MEDICINA GENERAL":1
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":12,
+            "MEDICINA GENERAL":9,
+            "ODONTOLOGIA GENERAL":3
+         },
+         "total":80,
+         "Agosto":{
+            "total":2,
+            "ODONTOLOGIA":2
+         },
+         "Febrero":{
+            "total":10,
+            "MEDICINA GENERAL":10
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":3,
+            "ODONTOLOGIA":1,
+            "MEDICINA GENERAL":2
+         },
+         "Noviembre":{
+            "total":3,
+            "ODONTOLOGIA":3
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "VIÑA SAN FRANCISCO":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":0,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "NIEVERIA DEL PARAISO":{
+         "Mayo":{
+            "total":484,
+            "MEDICINA GENERAL":484
+         },
+         "Abril":{
+            "total":435,
+            "222400":1,
+            "MEDICINA GENERAL":434
+         },
+         "Enero":{
+            "total":337,
+            "MEDICINA GENERAL":337
+         },
+         "Julio":{
+            "total":477,
+            "MEDICINA GENERAL":477
+         },
+         "Junio":{
+            "total":426,
+            "MEDICINA GENERAL":426
+         },
+         "Marzo":{
+            "total":471,
+            "222400":7,
+            "MEDICINA GENERAL":464
+         },
+         "total":4948,
+         "Agosto":{
+            "total":481,
+            "MEDICINA GENERAL":481
+         },
+         "Febrero":{
+            "total":353,
+            "MEDICINA GENERAL":353
+         },
+         "Octubre":{
+            "total":466,
+            "MEDICINA GENERAL":466
+         },
+         "Diciembre":{
+            "total":59,
+            "MEDICINA GENERAL":59
+         },
+         "Noviembre":{
+            "total":452,
+            "MEDICINA GENERAL":452
+         },
+         "Setiembre":{
+            "total":507,
+            "MEDICINA GENERAL":507
+         }
+      },
+      "SANTA ROSA DE QUIVES":{
+         "Mayo":{
+            "total":129,
+            "MEDICINA GENERAL":129
+         },
+         "Abril":{
+            "total":100,
+            "MEDICINA GENERAL":100
+         },
+         "Enero":{
+            "total":136,
+            "MEDICINA GENERAL":136
+         },
+         "Julio":{
+            "total":110,
+            "ODONTOLOGIA":30,
+            "MEDICINA GENERAL":80
+         },
+         "Junio":{
+            "total":126,
+            "ODONTOLOGIA":4,
+            "MEDICINA GENERAL":122
+         },
+         "Marzo":{
+            "total":148,
+            "MEDICINA GENERAL":148
+         },
+         "total":1586,
+         "Agosto":{
+            "total":107,
+            "ODONTOLOGIA":34,
+            "MEDICINA GENERAL":73
+         },
+         "Febrero":{
+            "total":130,
+            "MEDICINA GENERAL":130
+         },
+         "Octubre":{
+            "total":175,
+            "ODONTOLOGIA":76,
+            "MEDICINA GENERAL":99
+         },
+         "Diciembre":{
+            "total":51,
+            "ODONTOLOGIA":21,
+            "MEDICINA GENERAL":30
+         },
+         "Noviembre":{
+            "total":185,
+            "ODONTOLOGIA":92,
+            "MEDICINA GENERAL":93
+         },
+         "Setiembre":{
+            "total":189,
+            "ODONTOLOGIA":101,
+            "MEDICINA GENERAL":88
+         }
+      },
+      "COOPERATIVA UNIVERSAL":{
+         "Mayo":{
+            "total":240,
+            "NUTRICIÓN":29,
+            "MEDICINA GENERAL":211
+         },
+         "Abril":{
+            "total":253,
+            "NUTRICIÓN":29,
+            "MEDICINA GENERAL":224
+         },
+         "Enero":{
+            "total":183,
+            "NUTRICIÓN":42,
+            "MEDICINA GENERAL":141
+         },
+         "Julio":{
+            "total":222,
+            "NUTRICIÓN":26,
+            "MEDICINA GENERAL":196
+         },
+         "Junio":{
+            "total":256,
+            "NUTRICIÓN":35,
+            "MEDICINA GENERAL":221
+         },
+         "Marzo":{
+            "total":273,
+            "NUTRICIÓN":46,
+            "MEDICINA GENERAL":227
+         },
+         "total":2901,
+         "Agosto":{
+            "total":228,
+            "NUTRICIÓN":9,
+            "MEDICINA GENERAL":219
+         },
+         "Febrero":{
+            "total":271,
+            "NUTRICIÓN":39,
+            "MEDICINA GENERAL":232
+         },
+         "Octubre":{
+            "total":248,
+            "NUTRICIÓN":32,
+            "MEDICINA GENERAL":216
+         },
+         "Diciembre":{
+            "total":63,
+            "NUTRICIÓN":6,
+            "MEDICINA GENERAL":57
+         },
+         "Noviembre":{
+            "total":424,
+            "NUTRICIÓN":37,
+            "MEDICINA GENERAL":387
+         },
+         "Setiembre":{
+            "total":240,
+            "NUTRICIÓN":21,
+            "MEDICINA GENERAL":219
+         }
+      },
+      "MADRE TERESA  CALCUTA":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":19,
+            "MEDICINA GENERAL":19
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":19,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "SANTA MAGDALENA SOFIA":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":19,
+            "MEDICINA GENERAL":19
+         },
+         "Julio":{
+            "total":124,
+            "ODONTOLOGIA":124
+         },
+         "Junio":{
+            "total":59,
+            "ODONTOLOGIA":54,
+            "MEDICINA GENERAL":5
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":1885,
+         "Agosto":{
+            "total":81,
+            "ODONTOLOGIA":81
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":661,
+            "NUTRICIÓN":3,
+            "ODONTOLOGIA":176,
+            "MEDICINA GENERAL":482
+         },
+         "Diciembre":{
+            "total":178,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":50,
+            "MEDICINA GENERAL":127
+         },
+         "Noviembre":{
+            "total":695,
+            "ODONTOLOGIA":212,
+            "MEDICINA GENERAL":483
+         },
+         "Setiembre":{
+            "total":68,
+            "NUTRICIÓN":2,
+            "ODONTOLOGIA":52,
+            "MEDICINA GENERAL":14
+         }
+      },
+      "CHANCAS DE ANDAHUAYLAS":{
+         "Mayo":{
+            "total":387,
+            "ODONTOLOGIA":385,
+            "MEDICINA GENERAL":2
+         },
+         "Abril":{
+            "total":251,
+            "ODONTOLOGIA":251
+         },
+         "Enero":{
+            "total":174,
+            "ODONTOLOGIA":174
+         },
+         "Julio":{
+            "total":287,
+            "NUTRICIÓN":6,
+            "ODONTOLOGIA":281
+         },
+         "Junio":{
+            "total":364,
+            "NUTRICIÓN":9,
+            "ODONTOLOGIA":351,
+            "MEDICINA GENERAL":4
+         },
+         "Marzo":{
+            "total":278,
+            "ODONTOLOGIA":278
+         },
+         "total":3240,
+         "Agosto":{
+            "total":245,
+            "NUTRICIÓN":7,
+            "ODONTOLOGIA":236,
+            "MEDICINA GENERAL":2
+         },
+         "Febrero":{
+            "total":59,
+            "ODONTOLOGIA":59
+         },
+         "Octubre":{
+            "total":322,
+            "NUTRICIÓN":6,
+            "ODONTOLOGIA":231,
+            "MEDICINA GENERAL":85
+         },
+         "Diciembre":{
+            "total":61,
+            "ODONTOLOGIA":61
+         },
+         "Noviembre":{
+            "total":271,
+            "ODONTOLOGIA":226,
+            "MEDICINA GENERAL":45
+         },
+         "Setiembre":{
+            "total":541,
+            "NUTRICIÓN":16,
+            "ODONTOLOGIA":369,
+            "MEDICINA GENERAL":156
+         }
+      },
+      "HUAYCAN DE CIENEGUILLA":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":0,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "CASA HUERTA LA CAMPIÑA":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":0,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "SAN ANTONIO DE PEDREGAL":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":4,
+            "MEDICINA GENERAL":4
+         },
+         "Junio":{
+            "total":11,
+            "NUTRICIÓN":1,
+            "ODONTOLOGIA":2,
+            "MEDICINA GENERAL":8
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":15,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "SANTA MARIA DE HUACHIPA":{
+         "Mayo":{
+            "total":190,
+            "NUTRICIÓN":53,
+            "MEDICINA GENERAL":137
+         },
+         "Abril":{
+            "total":169,
+            "222400":7,
+            "NUTRICION":1,
+            "MEDICINA GENERAL":161
+         },
+         "Enero":{
+            "total":172,
+            "222400":7,
+            "MEDICINA GENERAL":165
+         },
+         "Julio":{
+            "total":197,
+            "NUTRICIÓN":42,
+            "MEDICINA GENERAL":155
+         },
+         "Junio":{
+            "total":267,
+            "NUTRICIÓN":120,
+            "MEDICINA GENERAL":147
+         },
+         "Marzo":{
+            "total":220,
+            "222400":24,
+            "MEDICINA GENERAL":196
+         },
+         "total":2187,
+         "Agosto":{
+            "total":163,
+            "NUTRICIÓN":4,
+            "MEDICINA GENERAL":159
+         },
+         "Febrero":{
+            "total":182,
+            "222400":5,
+            "MEDICINA GENERAL":177
+         },
+         "Octubre":{
+            "total":259,
+            "MEDICINA GENERAL":259
+         },
+         "Diciembre":{
+            "total":46,
+            "MEDICINA GENERAL":46
+         },
+         "Noviembre":{
+            "total":130,
+            "MEDICINA GENERAL":130
+         },
+         "Setiembre":{
+            "total":192,
+            "MEDICINA GENERAL":192
+         }
+      },
+      "VIRGEN DEL CARMEN - LA ERA":{
+         "Mayo":{
+            "total":236,
+            "MEDICINA GENERAL":233,
+            "ODONTOLOGIA GENERAL":3
+         },
+         "Abril":{
+            "total":170,
+            "MEDICINA GENERAL":170
+         },
+         "Enero":{
+            "total":89,
+            "MEDICINA GENERAL":89
+         },
+         "Julio":{
+            "total":24,
+            "MEDICINA GENERAL":24
+         },
+         "Junio":{
+            "total":188,
+            "MEDICINA GENERAL":188
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":840,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":65,
+            "MEDICINA GENERAL":65
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":68,
+            "MEDICINA GENERAL":68
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "C.S. Señor de los Milagros":{
+         "Mayo":{
+            "total":59,
+            "222400":3,
+            "MEDICINA GENERAL":56
+         },
+         "Abril":{
+            "total":350,
+            "222400":36,
+            "MEDICINA GENERAL":314
+         },
+         "Enero":{
+            "total":49,
+            "NUTRICION":2,
+            "MEDICINA GENERAL":47
+         },
+         "Julio":{
+            "total":118,
+            "MEDICINA GENERAL":118
+         },
+         "Junio":{
+            "total":56,
+            "MEDICINA GENERAL":56
+         },
+         "Marzo":{
+            "total":372,
+            "222400":1,
+            "NUTRICION":2,
+            "MEDICINA GENERAL":369
+         },
+         "total":1541,
+         "Agosto":{
+            "total":65,
+            "MEDICINA GENERAL":65
+         },
+         "Febrero":{
+            "total":386,
+            "222400":2,
+            "NUTRICION":9,
+            "MEDICINA GENERAL":375
+         },
+         "Octubre":{
+            "total":28,
+            "MEDICINA GENERAL":28
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":58,
+            "MEDICINA GENERAL":58
+         }
+      },
+      "P.S. Señor de los Milagros":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":1,
+            "NUTRICION":1
+         },
+         "Julio":{
+            "total":95,
+            "NUTRICIÓN":4,
+            "ODONTOLOGIA":1,
+            "MEDICINA GENERAL":90
+         },
+         "Junio":{
+            "total":1,
+            "NUTRICIÓN":1
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":198,
+         "Agosto":{
+            "total":50,
+            "NUTRICIÓN":2,
+            "MEDICINA GENERAL":48
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":21,
+            "MEDICINA GENERAL":21
+         },
+         "Diciembre":{
+            "total":5,
+            "MEDICINA GENERAL":5
+         },
+         "Noviembre":{
+            "total":25,
+            "MEDICINA GENERAL":25
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "VIRGEN DEL ROSARIO CARAPONGO":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":116,
+            "MEDICINA GENERAL":116
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":164,
+         "Agosto":{
+            "total":48,
+            "MEDICINA GENERAL":48
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "FRATERNIDAD NIÑO JESUS ZONA X":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":0
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":0
+         },
+         "Junio":{
+            "total":0
+         },
+         "Marzo":{
+            "total":0
+         },
+         "total":0,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":0
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      },
+      "VILLA LETICIA DE CAJAMARQUILLA":{
+         "Mayo":{
+            "total":0
+         },
+         "Abril":{
+            "total":222,
+            "MEDICINA GENERAL":222
+         },
+         "Enero":{
+            "total":0
+         },
+         "Julio":{
+            "total":44,
+            "MEDICINA GENERAL":44
+         },
+         "Junio":{
+            "total":72,
+            "MEDICINA GENERAL":72
+         },
+         "Marzo":{
+            "total":304,
+            "MEDICINA GENERAL":304
+         },
+         "total":897,
+         "Agosto":{
+            "total":0
+         },
+         "Febrero":{
+            "total":255,
+            "NUTRICION":1,
+            "MEDICINA GENERAL":254
+         },
+         "Octubre":{
+            "total":0
+         },
+         "Diciembre":{
+            "total":0
+         },
+         "Noviembre":{
+            "total":0
+         },
+         "Setiembre":{
+            "total":0
+         }
+      }
+   }
+}
