@@ -10,7 +10,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.spring.citas.citas.config.ConfigService;
-import com.spring.citas.citas.entities.Resumen2025;
+//import com.spring.citas.citas.entities.Resumen2025;
+import com.spring.citas.citas.entities.Resumen_2025_v02;
 import com.spring.citas.citas.repositories.Resumen2025Repository;
 
 @Service
@@ -44,15 +45,15 @@ public class Resumen2025Service {
         }
 
         // 4) Obtener datos reales del semestre
-        List<Resumen2025> datos = repo.findByMeses(meses);
+        List<Resumen_2025_v02> datos = repo.findByMeses(meses);
 
         // 5) Rellenar datos reales
-        for (Resumen2025 r : datos) {
+        for (Resumen_2025_v02 r : datos) {
             if (!centrosMap.containsKey(r.getNombre_eess())) 
                 continue;
 
             centrosMap.get(r.getNombre_eess())
-                      .put(r.getMes_atencion(), r.getTotal_mes());
+                      .put(r.getMes_atencion(), r.getTotal_mes_citados());
         }
 
         // 6) Calcular meses_atendidos (total general por mes)

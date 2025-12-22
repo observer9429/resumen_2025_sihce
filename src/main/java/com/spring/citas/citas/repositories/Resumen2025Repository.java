@@ -5,27 +5,44 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 
 import com.spring.citas.citas.entities.Resumen2025;
+import com.spring.citas.citas.entities.Resumen_2025_v02;
 import com.spring.citas.citas.projections.ResumenCentroProjection;
 
 import java.util.List;
 
 
-public interface  Resumen2025Repository  extends JpaRepository<Resumen2025, Long>{
+public interface  Resumen2025Repository  extends JpaRepository<Resumen_2025_v02, Long>{
     
-    @Query("SELECT r FROM Resumen2025 r WHERE r.mes_atencion IN :meses ORDER BY r.nombre_eess ASC, r.mes_atencion ASC")
-    List<Resumen2025> findByMeses(@Param("meses") List<String> meses);
+    //para atendidos
+    @Query("SELECT r FROM Resumen_2025_v02 r WHERE r.mes_atencion IN :meses ORDER BY r.nombre_eess ASC, r.mes_atencion ASC")
+    List<Resumen_2025_v02> findByMeses(@Param("meses") List<String> meses);
 
+    //para detalles de cada centro
     @Query(value = """
         SELECT 
             nombre_eess,
             mes_atencion,
-            total_mes,
+            total_mes_citados,
+            total_mes_atendidos,
             descripcion_del_servicio,
-            total_servicio
-        FROM resumen_2025
+            total_servicio_citados,
+            total_servicio_atendidos
+        FROM resumen_2025_prueba
         ORDER BY nombre_eess, mes_atencion
     """, nativeQuery = true)
     List<ResumenCentroProjection> findAllResumenProyeccion();
 
 
+    //para el gráfico
+    @Query(value = """
+        SELECT 
+            nombre_eess,
+            mes_atencion,
+            total_mes_citados,
+            total_mes_atendidos
+        FROM resumen_2025_prueba
+        ORDER BY nombre_eess, mes_atencion
+    """, nativeQuery = true)
+    List<ResumenCentroProjection> findAllResumenGrafico();
+  
 }
