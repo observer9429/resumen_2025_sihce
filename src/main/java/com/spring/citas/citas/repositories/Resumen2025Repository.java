@@ -27,7 +27,7 @@ public interface  Resumen2025Repository  extends JpaRepository<Resumen_2025_v02,
             descripcion_del_servicio,
             total_servicio_citados,
             total_servicio_atendidos
-        FROM resumen_2025_prueba
+        FROM resumen_inc
         ORDER BY nombre_eess, mes_atencion
     """, nativeQuery = true)
     List<ResumenCentroProjection> findAllResumenProyeccion();
@@ -40,7 +40,7 @@ public interface  Resumen2025Repository  extends JpaRepository<Resumen_2025_v02,
             mes_atencion,
             total_mes_citados,
             total_mes_atendidos
-        FROM resumen_2025_prueba
+        FROM resumen_inc
         ORDER BY nombre_eess, mes_atencion
     """, nativeQuery = true)
     List<ResumenCentroProjection> findAllResumenGrafico();
