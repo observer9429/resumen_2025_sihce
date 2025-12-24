@@ -1,9 +1,11 @@
 package com.spring.citas.citas.services;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import java.util.TreeMap;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,15 +27,15 @@ public class Resumen2025Service {
 
     public Map<String, Object> generarDashboardPorSemestre(int semestre) {
 
-        // 1) Meses del semestre solicitado
+        // 1) Meses del semestre
         List<String> meses = semestre == 1 ?
                 List.of("Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio") :
                 List.of("Julio", "Agosto", "Setiembre", "Octubre", "Noviembre", "Diciembre");
 
-        // 2) Centros del config.json
+        // 2) Centros del config
         List<String> centros = configService.getCentros();
 
-        // 3) Inicializar estructura base: centro → mes → 0
+        // 3) Inicializar estructura
         Map<String, Map<String, Integer>> centrosMap = new TreeMap<>();
 
         for (String c : centros) {
@@ -44,19 +46,33 @@ public class Resumen2025Service {
             centrosMap.put(c, mesesCentro);
         }
 
-        // 4) Obtener datos reales del semestre
+        // 4) Datos reales
         List<Resumen_2025_v02> datos = repo.findByMeses(meses);
 
-        // 5) Rellenar datos reales
+        // 🔑 Para evitar duplicar (centro + mes)
+        Set<String> yaContado = new HashSet<>();
+
+        // 5) Rellenar datos (ATENDIDOS)
         for (Resumen_2025_v02 r : datos) {
-            if (!centrosMap.containsKey(r.getNombre_eess())) 
+
+            String centro = r.getNombre_eess();
+            String mes = r.getMes_atencion();
+
+            if (!centrosMap.containsKey(centro))
                 continue;
 
-            centrosMap.get(r.getNombre_eess())
-                      .put(r.getMes_atencion(), r.getTotal_mes_citados());
+            String clave = centro + "|" + mes;
+            if (yaContado.contains(clave))
+                continue;
+
+            yaContado.add(clave);
+
+            // ✅ USAR ATENDIDOS, NO CITADOS
+            centrosMap.get(centro)
+                      .put(mes, r.getTotal_mes_atendidos());
         }
 
-        // 6) Calcular meses_atendidos (total general por mes)
+        // 6) Total atendidos por mes
         Map<String, Integer> mesesAtendidos = new LinkedHashMap<>();
 
         for (String mes : meses) {
@@ -67,7 +83,7 @@ public class Resumen2025Service {
             mesesAtendidos.put(mes, suma);
         }
 
-        // 7) Calcular meses_sin_atenciones (cuántos centros tienen 0)
+        // 7) Meses sin atenciones
         Map<String, Integer> mesesSinAtenciones = new LinkedHashMap<>();
 
         for (String mes : meses) {
@@ -79,11 +95,11 @@ public class Resumen2025Service {
             mesesSinAtenciones.put(mes, sin);
         }
 
-        // 8) Construir JSON final
+        // 8) JSON final
         Map<String, Object> data = new LinkedHashMap<>();
         data.put("total_establecimientos", centros.size());
         data.put("meses_sin_atenciones", mesesSinAtenciones);
-        data.put("meses_atendidos", mesesAtendidos); // ← CAMBIO IMPORTANTE
+        data.put("meses_atendidos", mesesAtendidos);
         data.put("centros", centrosMap);
 
         Map<String, Object> wrapper = new HashMap<>();
@@ -92,3 +108,4 @@ public class Resumen2025Service {
         return wrapper;
     }
 }
+

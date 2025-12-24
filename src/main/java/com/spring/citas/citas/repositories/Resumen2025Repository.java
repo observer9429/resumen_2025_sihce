@@ -4,7 +4,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 
-import com.spring.citas.citas.entities.Resumen2025;
 import com.spring.citas.citas.entities.Resumen_2025_v02;
 import com.spring.citas.citas.projections.ResumenCentroProjection;
 
