@@ -68,7 +68,8 @@ public class SecurityConfig {
         CorsConfiguration config = new CorsConfiguration();
 
         config.setAllowedOrigins(List.of(
-            "http://localhost:63342"
+            "http://localhost:63342",
+            "https://atendidos-2025.netlify.app"
         ));
 
         config.setAllowedMethods(List.of(
