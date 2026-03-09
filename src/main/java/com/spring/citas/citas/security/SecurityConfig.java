@@ -34,30 +34,22 @@ public class SecurityConfig {
             .csrf(csrf -> csrf.disable())
 
             .authorizeHttpRequests(auth -> auth
-                // 🔓 SOLO LOGIN PÚBLICO
-                //.requestMatchers("/auth/login").permitAll()
-                //.requestMatchers("/auth/**").permitAll()
 
-                // 🔐 TODO LO DEMÁS REQUIERE JWT
-                //.requestMatchers("/api/**").authenticated()
-                //.requestMatchers("/users/**").authenticated()
-                //.anyRequest().permitAll()
-                //.anyRequest().authenticated()
-                // USER
+                // permitir preflight CORS
+                .requestMatchers(org.springframework.http.HttpMethod.OPTIONS, "/**").permitAll()
+
                 // LOGIN PUBLICO
                 .requestMatchers("/auth/**").permitAll()
+
                 .requestMatchers("/api/atendidos/**").hasAnyRole("USER","ADMIN","MASTER")
                 .requestMatchers("/api/atenciones-centro/**").hasAnyRole("USER","ADMIN","MASTER")
                 .requestMatchers("/api/grafico/**").hasAnyRole("USER","ADMIN","MASTER")
 
-                // ADMIN
                 .requestMatchers("/api/citas-falsas/**").hasAnyRole("ADMIN","MASTER")
 
-                // MASTER
                 .requestMatchers("/api/users/**").hasRole("MASTER")
 
                 .anyRequest().authenticated()
-
             )
 
             // 🔑 JWT FILTER
@@ -87,7 +79,7 @@ public class SecurityConfig {
 
         CorsConfiguration config = new CorsConfiguration();
 
-        config.setAllowedOrigins(List.of(
+        config.setAllowedOriginPatterns(List.of(
             "http://localhost:*",
             "https://atendidos-2025.netlify.app"
         ));
