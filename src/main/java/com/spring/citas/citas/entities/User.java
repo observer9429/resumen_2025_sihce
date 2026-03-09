@@ -39,6 +39,9 @@ public class User {
     )
     private Set<Role>  roles=new HashSet<>();
 
+    @Column(nullable = false, unique = true, length = 255)
+    private String email;
+
     public Long getId() {
         return id;
     }
@@ -79,5 +82,14 @@ public class User {
         this.roles = roles;
     }
 
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    
     
 }

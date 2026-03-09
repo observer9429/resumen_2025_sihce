@@ -14,15 +14,20 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.config.Customizer;
 import org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration;
+import org.springframework.security.config.annotation.method.configuration.EnableMethodSecurity;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 
 @Configuration
+@EnableMethodSecurity
 public class SecurityConfig {
 
+    
     @Bean
     public SecurityFilterChain filterChain(
             HttpSecurity http,
             JwtFilter jwtFilter) throws Exception {
+
+                
 
         http
             .cors(Customizer.withDefaults())
@@ -30,14 +35,29 @@ public class SecurityConfig {
 
             .authorizeHttpRequests(auth -> auth
                 // 🔓 SOLO LOGIN PÚBLICO
-                .requestMatchers("/auth/login").permitAll()
-                .requestMatchers("/auth/**").permitAll()
+                //.requestMatchers("/auth/login").permitAll()
+                //.requestMatchers("/auth/**").permitAll()
 
                 // 🔐 TODO LO DEMÁS REQUIERE JWT
-                .requestMatchers("/api/**").authenticated()
-                .requestMatchers("/users/**").authenticated()
+                //.requestMatchers("/api/**").authenticated()
+                //.requestMatchers("/users/**").authenticated()
+                //.anyRequest().permitAll()
+                //.anyRequest().authenticated()
+                // USER
+                // LOGIN PUBLICO
+                .requestMatchers("/auth/**").permitAll()
+                .requestMatchers("/api/atendidos/**").hasAnyRole("USER","ADMIN","MASTER")
+                .requestMatchers("/api/atenciones-centro/**").hasAnyRole("USER","ADMIN","MASTER")
+                .requestMatchers("/api/grafico/**").hasAnyRole("USER","ADMIN","MASTER")
+
+                // ADMIN
+                .requestMatchers("/api/citas-falsas/**").hasAnyRole("ADMIN","MASTER")
+
+                // MASTER
+                .requestMatchers("/api/users/**").hasRole("MASTER")
 
                 .anyRequest().authenticated()
+
             )
 
             // 🔑 JWT FILTER
