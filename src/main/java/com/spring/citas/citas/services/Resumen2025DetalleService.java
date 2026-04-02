@@ -9,6 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.spring.citas.citas.config.ConfigService;
+import com.spring.citas.citas.entities.Resumen_2025_v02;
 import com.spring.citas.citas.projections.ResumenCentroProjection;
 import com.spring.citas.citas.repositories.Resumen2025Repository;
 
@@ -26,16 +27,18 @@ public class Resumen2025DetalleService {
             "Julio", "Agosto", "Setiembre", "Octubre", "Noviembre", "Diciembre"
     );
 
+    
+
     public Map<String, Object> generarResumenAnualCentros() {
 
-        List<String> centrosOriginales = configService.getCentros();
+        List<String> centrosOriginales = configService.getCentros(); 
         List<String> centrosNumerados  = configService.getCentrosNumerados();
 
         List<ResumenCentroProjection> registros = repo.findAllResumenProyeccion();
 
         Map<String, Object> resultado = new LinkedHashMap<>();
 
-        // ===== 1) CREAR TODOS LOS CENTROS EN 0 =====
+        // ===== 1) CREAR TODOS LOS CENTROS EN 0 ===== 
         for (int i = 0; i < centrosOriginales.size(); i++) {
 
             String centroNumerado = centrosNumerados.get(i);
@@ -72,6 +75,7 @@ public class Resumen2025DetalleService {
                     (Map<String, Object>) dataCentro.get(mes);
 
             // TOTAL DEL MES (una sola vez)
+            //con el condicional evitamos sobreescribir si ya se asigno datos
             if ((int) dataMes.get("total_citados") == 0
                     && (int) dataMes.get("total_atendidos") == 0) {
 

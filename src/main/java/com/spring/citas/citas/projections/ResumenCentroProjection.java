@@ -7,7 +7,7 @@ public interface ResumenCentroProjection {
 
     Integer getTotal_mes_citados();
     Integer getTotal_mes_atendidos();
-
+ 
     String getDescripcion_del_servicio();
 
     Integer getTotal_servicio_citados();

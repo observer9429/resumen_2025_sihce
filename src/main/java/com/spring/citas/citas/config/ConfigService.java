@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
 @Service
 public class ConfigService {
 
-    private Map<String, String> meses;
+    private Map<String, String> meses; 
     private List<String> centros;
 
     @PostConstruct
@@ -55,6 +55,8 @@ public class ConfigService {
     public List<String> getCentros() {
         return centros;
     }
+
+    
     //numeramos los centros para la tabla centro detallado
     public List<String> getCentrosNumerados() {
     List<String> centros = getCentros();

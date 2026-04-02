@@ -32,10 +32,10 @@ public class DuplicationService {
 
     public List<DuplicationDto> getByMes(int mes){
 
-        return duplicationRepository
+        return duplicationRepository 
                 .findByMesCreacionAndAnoCreacion((long) mes, 2025L)
                 .stream()
-                .map(this::convertToDto)
+                .map(this::convertToDto)//HACE REFERENCIA AL METODO DE ESTA CLASE, QUE ES EL
                 .toList();
     }
 
@@ -91,7 +91,7 @@ public class DuplicationService {
                 d.getUsuarioCc()
 
         );
-    }
+    } 
 
 
     public List<DuplicationFullDto> getFullByMes(int mes) {

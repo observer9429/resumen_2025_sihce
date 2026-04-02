@@ -43,5 +43,8 @@ public interface  Resumen2025Repository  extends JpaRepository<Resumen_2025_v02,
         ORDER BY nombre_eess, mes_atencion
     """, nativeQuery = true)
     List<ResumenCentroProjection> findAllResumenGrafico();
-  
+
+    //obtener otod, practica PracticaController
+   
+        
 }
